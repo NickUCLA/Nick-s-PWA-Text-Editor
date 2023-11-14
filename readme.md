@@ -14,7 +14,7 @@ The Progressive Web Application Text Editor is a versatile web app that seamless
 
 The application can also be used as a freestanding tool, thanks to its integrated service worker and Cache APIs. It's perfect for users who need a flexible text editor that adapts to their connectivity needs.
 
-[Access the deployed app on Heroku]()
+[Access the deployed app on Heroku](https://nickspwa-debfaeb179e6.herokuapp.com/)
 
 ## Technology
 
@@ -38,3 +38,7 @@ Follow these steps to set up the application on your local machine:
 
 4. Once the dependencies are installed, start the application by running the following command:
    `npm run start:dev`
+
+## Visuals
+
+![Screenshot](./images/screenshot.png)
